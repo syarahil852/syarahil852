@@ -4,7 +4,7 @@ I started my journey in tech at 15 and have been learning, building, and explori
 
 ## 🌐 Socials
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD_INVITE)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]([https://discord.gg/YOUR_DISCORD_INVITE](https://discord.com/channels/@me/1561205826163572808))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/syarahil852)
 
