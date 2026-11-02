@@ -1,45 +1,41 @@
 # 🚀 Syarahil | AI + Game Developer
 
-> Building AI-powered experiences and next-gen games with a cinematic, Unreal-inspired vision.
+> Building immersive AI systems and next-generation game experiences with a cinematic, high-impact vision.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=syarahil852&label=Profile+Views&color=blue&style=flat)](https://github.com/syarahil852)
+[![Profile Views](https://komarev.com/ghpvc/?username=syarahil852&label=Profile+Views&color=00D9FF&style=flat)](https://github.com/syarahil852)
 [![GitHub followers](https://img.shields.io/github/followers/syarahil852?label=Followers&style=social)](https://github.com/syarahil852)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1282953058665369630)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/syarahil852)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Game+Developer;Unreal+Engine+Vision;Fortnite-inspired+energy;Building+the+next+big+experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Game+Developer;Unreal+Inspired+Builder;Creative+Systems+Designer;Building+Future+Experiences" alt="Typing SVG" />
 </p>
 
 ## ✨ About Me
-I am a young software engineer and game developer who is obsessed with crafting immersive digital experiences. I love the intersection of AI, gameplay systems, and cinematic worlds. My dream is to build worlds that feel alive, memorable, and massive — the kind of energy you feel in high-quality game experiences inspired by modern AAA craftsmanship.
+I am a young software engineer and game developer driven by the desire to create experiences that feel alive, exciting, and unforgettable. My focus is on combining AI, gameplay systems, and high-quality design to build digital experiences with strong identity and impact.
 
-I enjoy building:
-- AI-powered systems and tools
-- Interactive game mechanics
-- Unreal-style visual ambition
-- Fast, creative prototypes that feel premium
-- Experiences with a "wow" factor
+I want to create things that feel bigger than code — experiences that carry energy, emotion, and wow-factor.
 
-## 🎮 What I Want to Build
-I want to create game and AI projects that feel like they belong in the future:
+## 🎮 My Vision
+I don’t just want to build apps or prototypes. I want to create worlds and systems that feel premium, immersive, and memorable.
 
-- Smart NPCs and AI companions
-- Real-time game systems with strong polish
-- Unreal-inspired world design and cinematic feel
-- Competitive and social gaming concepts
-- Interactive experiences with high engagement and replay value
+My dream is to develop:
+- AI-powered interactive experiences
+- game systems with depth and polish
+- immersive worlds with strong atmosphere
+- tools and mechanics with real gameplay value
+- experiences inspired by the energy of modern AAA worlds
 
-## 💡 Vision
-Not just coding — making moments that hit hard.
+## 💡 Why I Build
+I care about the feeling people get when they interact with something new.
 
-Like a big live event in a digital universe, I want every project I build to have:
-- strong identity
-- high energy
-- memorable gameplay
-- immersive atmosphere
-- visual impact
+The strongest projects are not only functional — they are:
+- memorable
+- emotional
+- cinematic
+- creative
+- unforgettable
 
 ## 🧠 Tech Stack
 
@@ -48,15 +44,15 @@ Like a big live event in a digital universe, I want every project I build to hav
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-![AI](https://img.shields.io/badge/AI-%23FF6B6B?style=for-the-badge)
-![Game Dev](https://img.shields.io/badge/Game%20Dev-%2300C2FF?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-%2300D9FF?style=for-the-badge)
+![Games](https://img.shields.io/badge/Game%20Dev-%23FF6B6B?style=for-the-badge)
 
 ## 🏆 Current Focus
-- AI-driven game experiences
-- Real-time mechanics and gameplay systems
-- Unreal Engine / Unity exploration
-- Deepening creative execution and polish
-- Building projects that feel premium and memorable
+- AI-powered gameplay and systems
+- Unreal Engine and Unity exploration
+- creating smarter and more creative mechanics
+- building projects with premium polish
+- designing experiences that feel alive and modern
 
 ## 📊 GitHub Stats
 
@@ -78,10 +74,10 @@ Like a big live event in a digital universe, I want every project I build to hav
   <img src="https://github-readme-stats.shion.dev/api?username=syarahil852&theme=tokyonight&hide_border=false&show_icons=true&include_all_commits=true&count_private=false&custom_title=Game%20Dev%20Activity" alt="Game Dev Activity" />
 </p>
 
-## 🔥 Mood
-Living with big ambition, strong curiosity, and an obsession for building cool things that feel next-level.
+## 🔥 Core Energy
+I’m building toward a future where creativity, technology, and gameplay collide.
 
-> “I’m not just learning to code — I’m building the kind of experiences that get people excited.”
+> “Not just learning code — creating experiences people remember.”
 
 ---
 
